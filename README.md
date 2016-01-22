@@ -2,6 +2,10 @@
 
 (c) 2016 Thomas Leathers
 
+requires: Bash shell, GTKdialog.
+
+also note that it uses the "dirname" and "basename" utilities.
+
 TPhotobrowser is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
